@@ -8,5 +8,5 @@ import java.util.List;
 @Data
 public class Design {
     private String name;
-    private List<Ingredient> ingredientList;
+    private List<String> ingredients;
 }
